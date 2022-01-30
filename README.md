@@ -9,8 +9,8 @@ I worked in a team of 3 to solve the challenge and we were able to achieve a sco
 # Results
 
 <img src="img/roc.png"
-    alt="ROC Curve" height=400 
+    alt="ROC Curve" height=300 
     style="float: left; margin-right: 10px;" />
 <img src="img/confusion_matrix.png"
-    alt="Confusion matrix" height=400
+    alt="Confusion matrix" height=300
     style="float: left; margin-right: 10px;" />
