@@ -8,5 +8,9 @@ I worked in a team of 3 to solve the challenge and we were able to achieve a sco
 
 # Results
 
-![ROC Curve](img/roc.png)
-![Confusion matrix](img/confusion_matrix.png)
+<img src="img/roc.png"
+    alt="ROC Curve" height=400 
+    style="float: left; margin-right: 10px;" />
+<img src="img/confusion_matrix.png"
+    alt="Confusion matrix" height=400
+    style="float: left; margin-right: 10px;" />
